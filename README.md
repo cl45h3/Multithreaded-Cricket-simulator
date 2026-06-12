@@ -1,4 +1,4 @@
-#  T20 Cricket Simulator (OS-Based Project)
+#  Multithreaded Cricket simulator(OS-Based Project)
 
 A multi-threaded T20 cricket simulator built to demonstrate core **Operating System concepts** such as scheduling, synchronization, concurrency, and deadlock handling through a realistic cricket match environment.
 
